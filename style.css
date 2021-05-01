@@ -1444,3 +1444,8 @@ body {
   transition: 0.4s;
   font-size: 17px;
 }
+/* last edit */
+.faq_section .title {
+    margin-top: 207px;
+    margin-bottom: 98px;
+}
